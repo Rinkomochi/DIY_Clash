@@ -1,35 +1,8 @@
-# 存放着个人遇到需要代理的域名
-# DOMAIN
-# 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com，但不匹配 www.google.com。
-
-# DOMAIN-SUFFIX
-# 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
-
-# DOMAIN-KEYWORD
-# 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
-
-# DOMAIN-KEYWORD,XXX.cn,DIRECT(直连)
-#- DOMAIN-SUFFIX,gstatic.com
-#- DOMAIN-SUFFIX,googleapis.cn
 payload:
-  - DOMAIN-KEYWORD,civitai.com
-  - DOMAIN-KEYWORD,wiki.metacubex.one
-  - DOMAIN-KEYWORD,z-library
-  - DOMAIN-KEYWORD,h-ciyuan
-  - DOMAIN-KEYWORD,chuwi
-  - DOMAIN-KEYWORD,avbebe
-  - DOMAIN-KEYWORD,jiedm
-  - DOMAIN-KEYWORD,mikanani
-  - DOMAIN-KEYWORD,docker
-  - DOMAIN-KEYWORD,a4k
-  - DOMAIN-KEYWORD,zimuzimu
-  - DOMAIN-KEYWORD,vidhub1
-  - DOMAIN-KEYWORD,feitu
-  - DOMAIN-KEYWORD,56music
-  - DOMAIN-KEYWORD,ddys
-  - DOMAIN-KEYWORD,jlpdq
-  - DOMAIN-KEYWORD,parsec
-  - DOMAIN-KEYWORD,rsshub
-  - DOMAIN-KEYWORD,yande
-  - DOMAIN-KEYWORD,xchina
-  - DOMAIN-KEYWORD,allawntech
+- DOMAIN-KEYWORD,fast.com
+- DOMAIN-KEYWORD,netflix.com
+- DOMAIN-KEYWORD,netflix.net
+- DOMAIN-KEYWORD,nflxext.com
+- DOMAIN-KEYWORD,nflximg.net
+- DOMAIN-KEYWORD,nflxso.net
+- DOMAIN-KEYWORD,nflxvideo.net
