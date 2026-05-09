@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,dolby.dpdns.org
+payload:
+- 'DOMAIN-SUFFIX,dolby.dpdns.org'
