@@ -368,7 +368,7 @@ payload:
   - DOMAIN-SUFFIX,hyphenate.io
   - DOMAIN-SUFFIX,qbox.me
   - DOMAIN-SUFFIX,clouddn.com
-  - DOMAIN-SUFFIX,rtc.baidu.com
+  #- DOMAIN-SUFFIX,rtc.baidu.com
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,rtc.huaweicloud.com
 
