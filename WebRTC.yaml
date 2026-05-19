@@ -300,7 +300,7 @@ payload:
   # 国内长视频/直播平台
   - DOMAIN-SUFFIX,stun.chat.bilibili.com
   - DOMAIN-SUFFIX,turn.chat.bilibili.com
-  - DOMAIN-SUFFIX,chat.bilibili.com
+  # - DOMAIN-SUFFIX,chat.bilibili.com
   - DOMAIN-SUFFIX,stun.hitv.com
   - DOMAIN-SUFFIX,turn.hitv.com
   - DOMAIN-SUFFIX,stun.kuaishou.com
