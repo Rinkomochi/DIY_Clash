@@ -3,3 +3,8 @@ payload:
 - DOMAIN-SUFFIX,hanime1.me
 - DOMAIN-SUFFIX,18comic.vip
 - DOMAIN-SUFFIX,larksuite.com
+- DOMAIN-SUFFIX,capcut.com,PROXY
+- DOMAIN-SUFFIX,capcut.net,PROXY
+- DOMAIN-SUFFIX,capcutapi.com,PROXY
+- DOMAIN-SUFFIX,byteoversea.com,PROXY
+#- DOMAIN-SUFFIX,tiktok.com,PROXY
