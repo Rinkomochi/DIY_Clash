@@ -3,8 +3,27 @@ payload:
 - DOMAIN-SUFFIX,hanime1.me
 - DOMAIN-SUFFIX,18comic.vip
 - DOMAIN-SUFFIX,larksuite.com
+#国外剪映
 - DOMAIN-SUFFIX,capcut.com,PROXY
 - DOMAIN-SUFFIX,capcut.net,PROXY
 - DOMAIN-SUFFIX,capcutapi.com,PROXY
+- DOMAIN-SUFFIX,capcutapi.us,PROXY
+- DOMAIN-SUFFIX,capcutstatic.com,PROXY
+- DOMAIN-SUFFIX,capcutcdn-us.com,PROXY
+- DOMAIN-SUFFIX,ibytedtos.com,PROXY
+- DOMAIN-SUFFIX,ibyteimg.com,PROXY
 - DOMAIN-SUFFIX,byteoversea.com,PROXY
+- DOMAIN-SUFFIX,byteoversea.net,PROXY
+- DOMAIN-SUFFIX,byteintlapi.com,PROXY
+- DOMAIN-SUFFIX,bytegecko.com,PROXY
+- DOMAIN-SUFFIX,bytegecko-i18n.com,PROXY
+- DOMAIN-SUFFIX,sgpstatp.com,PROXY
+- DOMAIN-SUFFIX,ipstatp.com,PROXY
+- DOMAIN-SUFFIX,muscdn.com,PROXY
+#国内剪映
+- DOMAIN-SUFFIX,jianying.com,DIRECT
+- DOMAIN-SUFFIX,capcut.cn,DIRECT
+- DOMAIN-SUFFIX,vlabimg.com,DIRECT
+- DOMAIN-SUFFIX,vlabstatic.com,DIRECT
+- DOMAIN-SUFFIX,vlabvod.com,DIRECT
 #- DOMAIN-SUFFIX,tiktok.com,PROXY
