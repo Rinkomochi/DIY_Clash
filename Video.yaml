@@ -27,3 +27,4 @@ payload:
 - DOMAIN-SUFFIX,vlabstatic.com,DIRECT
 - DOMAIN-SUFFIX,vlabvod.com,DIRECT
 #- DOMAIN-SUFFIX,tiktok.com,PROXY
+- DOMAIN-SUFFIX,realseek.wiki
